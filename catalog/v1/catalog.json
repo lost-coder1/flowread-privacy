@@ -1,6 +1,15 @@
 {
+  "dropMonth": "2026-11",
+  "dropChoices": [
+    "aesop_fables_en",
+    "utopia_more_en",
+    "ethics_aristotle_en"
+  ],
   "categories": {
-    "epics": { "en": "Epics", "hi": "महाकाव्य" }
+    "epics": {
+      "en": "Epics",
+      "hi": "महाकाव्य"
+    }
   },
   "books": [
     {
@@ -26,6 +35,45 @@
       "fileType": "txt",
       "approxLength": "~400 pages",
       "addedAt": "2026-11-24"
+    },
+    {
+      "id": "aesop_fables_en",
+      "title": "Aesop's Fables",
+      "author": "Aesop",
+      "language": "en",
+      "category": "classics",
+      "approxLength": "~150 pages",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/11339/pg11339.txt",
+      "coverImage": "https://www.gutenberg.org/cache/epub/11339/pg11339.cover.medium.jpg",
+      "fileType": "txt",
+      "addedAt": "2026-11-24",
+      "drop": true
+    },
+    {
+      "id": "utopia_more_en",
+      "title": "Utopia",
+      "author": "Thomas More",
+      "language": "en",
+      "category": "philosophy",
+      "approxLength": "~120 pages",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/2130/pg2130.txt",
+      "coverImage": "https://www.gutenberg.org/cache/epub/2130/pg2130.cover.medium.jpg",
+      "fileType": "txt",
+      "addedAt": "2026-11-24",
+      "drop": true
+    },
+    {
+      "id": "ethics_aristotle_en",
+      "title": "The Nicomachean Ethics",
+      "author": "Aristotle",
+      "language": "en",
+      "category": "philosophy",
+      "approxLength": "~300 pages",
+      "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438.txt",
+      "coverImage": "https://www.gutenberg.org/cache/epub/8438/pg8438.cover.medium.jpg",
+      "fileType": "txt",
+      "addedAt": "2026-11-24",
+      "drop": true
     }
   ]
 }
