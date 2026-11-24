@@ -3,7 +3,9 @@
   "dropChoices": [
     "aesop_fables_en",
     "utopia_more_en",
-    "ethics_aristotle_en"
+    "ethics_aristotle_en",
+    "beowulf_hall_en",
+    "iliad_butler_en"
   ],
   "categories": {
     "epics": {
