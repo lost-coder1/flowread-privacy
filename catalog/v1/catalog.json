@@ -1,3 +1,13 @@
 {
-  "books": []
+  "books": [ {
+      "id": "atomic_habits",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "language": "en",
+      "category": "self-help",
+      "coverImage": "https://jamesclear.com/wp-content/uploads/2025/06/atomic-habits-dots.png",
+      "sourceUrl": "https://castefreeindia.com/wp-content/uploads/2026/11/Atomic-habits.pdf",
+      "fileType": "pdf",
+      "approxLength": "~300 pages"
+    }]
 }
