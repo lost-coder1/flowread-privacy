@@ -24,7 +24,8 @@
       "sourceUrl": "https://www.gutenberg.org/cache/epub/16328/pg16328.txt",
       "fileType": "txt",
       "approxLength": "~120 pages",
-      "addedAt": "2026-11-24"
+      "addedAt": "2026-11-24",
+      "drop": true
     },
     {
       "id": "iliad_butler_en",
@@ -36,7 +37,8 @@
       "sourceUrl": "https://www.gutenberg.org/cache/epub/2199/pg2199.txt",
       "fileType": "txt",
       "approxLength": "~400 pages",
-      "addedAt": "2026-11-24"
+      "addedAt": "2026-11-24",
+      "drop": true
     },
     {
       "id": "aesop_fables_en",
