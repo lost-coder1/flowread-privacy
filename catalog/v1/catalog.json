@@ -8,6 +8,9 @@
     "self_help": {
       "en": "Self Help",
       "hi": "स्वयं सहायता"
+    },
+    "fiction":{
+      "en":"fiction_classics"
     }
   },
   "books": [
@@ -26,14 +29,14 @@
       "drop": true
     },
     {
-      "id": "Buddhijiviyo_ka_shadyantra",
-      "title": "बुद्धिजीवियों का षडयंत्र",
-      "author": "Rajeev Patel",
-      "language": "hi",
-      "category": "history_politics",
+      "id": "1984",
+      "title": "1984",
+      "author": "George Orwell",
+      "language": "en",
+      "category": "fiction_classics",
       "approxLength": "~300 pages",
-      "sourceUrl": "https://castefreeindia.com/बुद्धिजीवियों-का-षडयंत्र/",
-      "coverImage": "https://m.media-amazon.com/images/I/41-UrcMm+kS._AC_UF1000,1000_QL80_.jpg",
+      "sourceUrl": "hhttps://castefreeindia.com/wp-content/uploads/2026/11/1984-by-George-Orwell.pdf",
+      "coverImage": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327144697i/3744438.jpg",
       "fileType": "pdf",
       "addedAt": "2026-11-25",
       "drop": true
